@@ -52,17 +52,3 @@ Uma verificação isolada da quantidade física em estoque pode não representar
 A análise também precisa considerar a data em que o material será necessário, os prazos de reposição e a possibilidade de disponibilidade em outros depósitos.
 
 Por isso, a proposta é reunir essas informações em um fluxo único de análise.
-
-## 2.6 Contextualização industrial
-
-O projeto foi contextualizado para empresas industriais, especialmente o setor de papel e celulose, considerando a possibilidade de aplicação em organizações desse segmento.
-
-A menção a empresas como a Klabin representa apenas uma referência de contexto e possibilidade de aplicação. Não existe confirmação de que essa empresa possua especificamente o problema descrito. O MaintAI deve ser apresentado como uma solução proposta para uma necessidade operacional plausível, não como correção de uma falha interna comprovada.
-
-## 2.7 Declaração do problema
-
-O MaintAI busca reduzir a falta de visibilidade antecipada sobre insuficiências de materiais que possam comprometer manutenções programadas, oferecendo uma análise consolidada de estoque, reservas, depósitos, prazos e criticidade, acompanhada de alertas e recomendações para decisão humana.
-
-## 2.8 Fora da definição do problema
-
-O problema tratado não é a previsão de falhas físicas de equipamentos, a gestão integral de manutenção ou a substituição de módulos SAP. O foco é a disponibilidade de materiais necessária à execução de ordens de manutenção.
