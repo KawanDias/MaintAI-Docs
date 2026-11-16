@@ -1,6 +1,6 @@
 # MaintAI — Industrial Maintenance Intelligence
 
-Documentação bilíngue do MaintAI. Escolha o idioma:
+Escolha o idioma | Select the Language:
 
 - **Português (Brasil):** [`docs/pt-BR/README.md`](docs/pt-BR/README.md)
 - **English:** [`docs/en/README.md`](docs/en/README.md)
